@@ -1,0 +1,29 @@
+name: Storage problem
+description: Report a transfer, destination, protection or installation issue.
+title: "[Bug] "
+body:
+  - type: input
+    id: versions
+    attributes:
+      label: Valheim and SargamAutoStore versions
+      placeholder: Valheim 1.0.15; SargamAutoStore 0.2.8
+    validations:
+      required: true
+  - type: input
+    id: environment
+    attributes:
+      label: Platform, mod manager and singleplayer or multiplayer
+    validations:
+      required: true
+  - type: textarea
+    id: reproduction
+    attributes:
+      label: Steps, expected destination and actual result
+      description: Include the item type, relevant settings and other storage mods. Do not include credentials or private server details.
+    validations:
+      required: true
+  - type: textarea
+    id: diagnostic
+    attributes:
+      label: Optional sanitized status or log excerpt
+      description: Remove tokens, passwords, player identifiers and private addresses before posting.
