@@ -1,0 +1,32 @@
+[
+  {
+    "file": "branding/banner.png",
+    "sha256": "93643aed933e7ed025c6be577d7f764cd977fa32e655ceba6facbeddaec14d6c",
+    "bytes": 1983364
+  },
+  {
+    "file": "branding/icon.png",
+    "sha256": "4dd2d0d4245627e7642655fa7af572678c08e8919aacccae27e53edf33fa350e",
+    "bytes": 149840
+  },
+  {
+    "file": "screenshots/existing-contents.png",
+    "sha256": "67c112e6ef816154c919444e306868c02a0cf0c40679571c57418b119fdb088c",
+    "bytes": 3527497
+  },
+  {
+    "file": "screenshots/new-item-chest.png",
+    "sha256": "6a290e0d6e862183aa6f8e28cacb3c10bc699ade74733c6530847cb74ee1c604",
+    "bytes": 3605133
+  },
+  {
+    "file": "screenshots/sign-routing.png",
+    "sha256": "f46ff5ef12adbf999597195490daea85e6f2600f012b83443484bbf0127c10b6",
+    "bytes": 3538338
+  },
+  {
+    "file": "screenshots/automatic-routing.gif",
+    "sha256": "b165a35458d74e2d29b2de4e17400a5c7ff78787770ee0dfa46db56d06e4d8ce",
+    "bytes": 9235031
+  }
+]
