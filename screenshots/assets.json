@@ -1,5 +1,10 @@
 [
   {
+    "file": "branding/banner.jpg",
+    "sha256": "23ff1e9701457997bffb3e108ba2cb4b90475e4094f4be7b175c6ef0a9bc5c99",
+    "bytes": 410869
+  },
+  {
     "file": "branding/banner.png",
     "sha256": "93643aed933e7ed025c6be577d7f764cd977fa32e655ceba6facbeddaec14d6c",
     "bytes": 1983364
@@ -8,6 +13,16 @@
     "file": "branding/icon.png",
     "sha256": "4dd2d0d4245627e7642655fa7af572678c08e8919aacccae27e53edf33fa350e",
     "bytes": 149840
+  },
+  {
+    "file": "screenshots/automatic-routing-compact.gif",
+    "sha256": "7aaa600220ae8e0920ceb539a996f9d2b969cb05fbad535f3b6c31fe54050334",
+    "bytes": 4925718
+  },
+  {
+    "file": "screenshots/automatic-routing.gif",
+    "sha256": "b165a35458d74e2d29b2de4e17400a5c7ff78787770ee0dfa46db56d06e4d8ce",
+    "bytes": 9235031
   },
   {
     "file": "screenshots/existing-contents.png",
@@ -23,10 +38,5 @@
     "file": "screenshots/sign-routing.png",
     "sha256": "f46ff5ef12adbf999597195490daea85e6f2600f012b83443484bbf0127c10b6",
     "bytes": 3538338
-  },
-  {
-    "file": "screenshots/automatic-routing.gif",
-    "sha256": "b165a35458d74e2d29b2de4e17400a5c7ff78787770ee0dfa46db56d06e4d8ce",
-    "bytes": 9235031
   }
 ]

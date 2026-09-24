@@ -23,12 +23,15 @@ The helper checked each resulting chest total both in native inventory and in
 an independently loaded native saved-inventory payload (ZDO).
 
 - PNG files are unretouched 1920×1080 screenshots.
-- `automatic-routing.gif` is an **edited image sequence**, resized and palette
+- `automatic-routing.gif` (1000 px, 8 fps) and `automatic-routing-compact.gif`
+  (800 px, 4 fps) are the same **edited image sequence**, resized and palette
   encoded for the page. Selected drop frames are held for 0.25 seconds and
   feedback frames for 2.75 seconds. It is not real-time footage or a speed/FPS
   benchmark. Glow and transfer messages are the real mod's effects.
 - This demonstrates these four items in local singleplayer, not every item,
   the inventory shortcut, a full regression suite, or multiplayer compatibility.
+
+`branding/banner.jpg` is a compressed JPEG copy of the original PNG banner.
 
 The header banner and logo are original AI-assisted promotional illustrations,
 not gameplay images. Valheim imagery belongs to its respective rights holders.

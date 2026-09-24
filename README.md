@@ -1,6 +1,6 @@
 # SargamAutoStore
 
-![SargamAutoStore banner](branding/banner.png)
+![SargamAutoStore banner](branding/banner.jpg)
 
 **Smart auto-sorting. Built for performance.**
 
@@ -20,4 +20,4 @@ Preview. Local gameplay scenarios have been tested on macOS; multiplayer and Win
 
 ## Media
 
-[View the gameplay sequence](screenshots/automatic-routing.gif) and its [capture setup](screenshots/PROVENANCE.md). Staged demonstrations are not multiplayer validation or performance benchmarks. The logo is original AI-generated artwork. Valheim game imagery belongs to its respective rights holders.
+[View the gameplay sequence](screenshots/automatic-routing-compact.gif) and its [capture setup](screenshots/PROVENANCE.md). Staged demonstrations are not multiplayer validation or performance benchmarks. The logo is original AI-generated artwork. Valheim game imagery belongs to its respective rights holders.
