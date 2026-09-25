@@ -16,8 +16,12 @@ This repository hosts public presentation assets and issue reports. The implemen
 
 ## Current scope
 
-Preview. Local gameplay scenarios have been tested on macOS; multiplayer and Windows/Linux runtime validation remain pending. See the Thunderstore page for the precise tested scope and installation requirements. Do not run competing automatic-storage collectors together.
+Version 1.0. Local gameplay scenarios have been tested on macOS; multiplayer and Windows/Linux runtime validation remain pending. See the Thunderstore page for the precise tested scope and installation requirements. Do not run competing automatic-storage collectors together.
 
 ## Media
 
-[View the gameplay sequence](screenshots/automatic-routing-compact.gif) and its [capture setup](screenshots/PROVENANCE.md). Staged demonstrations are not multiplayer validation or performance benchmarks. The logo is original AI-generated artwork. Valheim game imagery belongs to its respective rights holders.
+[Watch the 1.0 ground and inventory demos](releases/1.0.0/README.md), inspect the [separate performance measurements](releases/1.0.0/BENCHMARK.md), or read the [capture setup](releases/1.0.0/PROVENANCE.md). Local staged demonstrations do not establish multiplayer compatibility. The logo is original AI-generated artwork. Valheim game imagery belongs to its respective rights holders.
+
+## Recommended companion
+
+**Store with SargamAutoStore. Craft with [NewtCraftHub](https://thunderstore.io/c/valheim/p/Anatta_Labs/NewtCraftHub/).** Newt’s optional mod adds crafting/building from nearby storage, station refilling and chest search. It is not a required dependency.

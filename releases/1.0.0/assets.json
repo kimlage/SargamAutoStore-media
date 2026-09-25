@@ -1,0 +1,70 @@
+{
+  "ground.gif": {
+    "sha256": "3c1f6819539a54de5c7e8bd5ad6d188c1e283c2c225262a8cfb8f8a6c26c32c4",
+    "media": {
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "width": 800,
+          "height": 450
+        }
+      ],
+      "format": {
+        "duration": "6.500000",
+        "size": "4271402"
+      }
+    }
+  },
+  "ground.mp4": {
+    "sha256": "d7d5d50710b087fcb447061525b1eee175cb6180802183878ef4ca04eccecfbf",
+    "media": {
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "width": 1280,
+          "height": 720
+        }
+      ],
+      "format": {
+        "duration": "6.566667",
+        "size": "3059527"
+      }
+    }
+  },
+  "inventory.gif": {
+    "sha256": "e14bfb2f7ad6e9bced8e1fbf9f77d710dcae40c2da9f384e296ddb408f8e5bd3",
+    "media": {
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "width": 800,
+          "height": 206
+        }
+      ],
+      "format": {
+        "duration": "9.670000",
+        "size": "1139059"
+      }
+    }
+  },
+  "inventory.mp4": {
+    "sha256": "132ea8f2d02c0c9308637488776da45778c0f8eb6833f3e1e798dc23a2249542",
+    "media": {
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "width": 1280,
+          "height": 330
+        }
+      ],
+      "format": {
+        "duration": "9.733333",
+        "size": "960002"
+      }
+    }
+  }
+}
